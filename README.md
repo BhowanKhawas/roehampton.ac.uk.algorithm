@@ -40,16 +40,13 @@ implementation and step-by-step visualisation of three distinct sorting methods:
 ## 📂 Visuals & Analysis
 
 ### 🔹 Sorting Visualisation
-> *Comparison of Merge Sort (Stable) vs. Quick Sort (In-Place).*
-*(You can upload your sorting screenshots here)*
+> ![task(1)](task1(a).png)
 
 ### 🔹 Dijkstra's Algorithm Execution
-> *Visualising the relaxation steps and final shortest path.*
-*(You can upload your final Dijkstra graph image here)*
+> ![Dijkstra’s Alg.](Dijkstra’s.png)
 
 ### 🔹 BST & Hash Table Structure
-> *Demonstrating collision resolution in Hash Tables vs. Tree depth in BSTs.*
-*(You can upload your final Hash Table/BST image here)*
+>  ![task3](task3.png)
 
 ---
 
