@@ -56,6 +56,7 @@ implementation and step-by-step visualisation of three distinct sorting methods:
 ## 📝 Usage
 This repository serves as an educational reference for understanding algorithmic steps. Each diagram represents a state change in the data structure, providing a clear "white-box" view of the internal logic.
 
+### 📄 [Click here to view the Full Algorithm Report (PDF)](Algorithm.pdf)
 Title: Add final Algorithm Laboratory Report
 Uploaded the complete PDF report containing Sorting, Dijkstra, and BST tasks.
 
